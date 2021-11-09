@@ -1,4 +1,4 @@
-def handler
+def handler(event: nil, context: nil)
   {
     statusCode: 200,
     headers: {
